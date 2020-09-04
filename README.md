@@ -17,3 +17,4 @@ Fixed calculate.py to match the assignment better.
 
 9/4/2020
 Made a run.sh file to run the calculate.py file. No idea if it's the right way to do it but this looks like it'll work so.   
+

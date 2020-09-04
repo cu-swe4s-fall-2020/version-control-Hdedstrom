@@ -6,3 +6,4 @@ def div(a, b):
 
 def add(a, b):
     return a + b
+
