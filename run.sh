@@ -1,1 +1,2 @@
-python calculate.py
+import calculate
+calculate
